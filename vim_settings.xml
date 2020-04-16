@@ -1,0 +1,417 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>request</entry>
+        <entry>for port</entry>
+        <entry>connScan</entry>
+        <entry>idea</entry>
+        <entry>SOCKET_PORT</entry>
+        <entry>run_guni</entry>
+        <entry>run_gun</entry>
+        <entry>\}</entry>
+        <entry>\{\(\{</entry>
+        <entry>\{</entry>
+        <entry>datetime</entry>
+        <entry>Big</entry>
+        <entry>String</entry>
+        <entry>products</entry>
+        <entry>cannot creat</entry>
+        <entry>cannot</entry>
+        <entry>Cannot</entry>
+        <entry>p_ret_status</entry>
+        <entry>raise</entry>
+        <entry encoding="base64">XDx0b1w+</entry>
+      </history-search>
+      <history-cmd>
+        <entry>447</entry>
+        <entry>47</entry>
+        <entry>wq</entry>
+        <entry>%s/arm64/x86</entry>
+        <entry>w\</entry>
+        <entry>W</entry>
+        <entry>58</entry>
+        <entry>68</entry>
+        <entry>w'</entry>
+        <entry>134</entry>
+        <entry>166</entry>
+        <entry>%s/self\.app/self\.db/g</entry>
+        <entry>%s/self\.app\.db/self\.db/g</entry>
+        <entry>13</entry>
+        <entry>%s/SOCKET_PORT/PORT</entry>
+        <entry>%s/\}/\},/g</entry>
+        <entry>%s/\{\(\{</entry>
+        <entry>%s/\{/(\{</entry>
+        <entry>reg</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/.env" timestamp="1586944236969">
+        <mark key="'" line="9" column="31" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="26" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="11" />
+      </file>
+      <file name="$USER_HOME$/anaconda3/envs/EdoardoPedrotti-api-test/lib/python3.7/site-packages/pika/adapters/blocking_connection.py" timestamp="1586874773703">
+        <mark key="'" line="880" column="33" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/src/migrations/env.py" timestamp="1586780742068">
+        <mark key="[" line="42" column="10" />
+        <mark key="]" line="42" column="19" />
+        <mark key="^" line="42" column="19" />
+        <mark key="." line="42" column="18" />
+      </file>
+      <file name="/Python Console" timestamp="1586956536399">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1586943985501">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/src/models/order.py" timestamp="1586853497197">
+        <mark key="[" line="9" column="57" />
+        <mark key="]" line="10" column="61" />
+        <mark key="^" line="10" column="61" />
+        <mark key="." line="10" column="60" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/.env.example" timestamp="1586944239260">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/pull_request.md" timestamp="1586956728555">
+        <mark key="'" line="6" column="44" />
+        <mark key="[" line="23" column="100" />
+        <mark key="]" line="23" column="103" />
+        <mark key="^" line="23" column="103" />
+        <mark key="." line="23" column="102" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/requirements.txt" timestamp="1586854774257">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="10" column="11" />
+        <mark key="^" line="10" column="11" />
+        <mark key="." line="10" column="10" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/src/init.py" timestamp="1586941720381">
+        <mark key="[" line="16" column="79" />
+        <mark key="]" line="16" column="103" />
+        <mark key="." line="16" column="102" />
+        <mark key="^" line="16" column="103" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/src/migrations/versions/f44c56eb468f_create_order_table.py" timestamp="1586781959298">
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="21" column="42" />
+        <mark key="." line="21" column="41" />
+        <mark key="^" line="21" column="42" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/docker-compose.yml" timestamp="1586941617315">
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="23" column="16" />
+        <mark key="." line="23" column="15" />
+        <mark key="^" line="23" column="16" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/docs/order-service.md" timestamp="1586955186841">
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="36" column="29" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/tests/controllers/test_orders.py" timestamp="1586953652933">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="8" />
+        <mark key="^" line="36" column="29" />
+        <mark key="." line="37" column="8" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/README.md" timestamp="1586955594998">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="28" column="143" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/src/controllers/orders_controller.py" timestamp="1586956191449">
+        <mark key="'" line="69" column="20" />
+        <mark key="[" line="80" column="68" />
+        <mark key="]" line="80" column="71" />
+        <mark key="." line="80" column="70" />
+        <mark key="^" line="80" column="71" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/src/migrations/versions/0b2e5bfba1dd_add_customer_full_name_column.py" timestamp="1586853508801">
+        <mark key="[" line="21" column="63" />
+        <mark key="]" line="21" column="73" />
+        <mark key="." line="21" column="72" />
+        <mark key="^" line="21" column="73" />
+      </file>
+      <file name="$USER_HOME$/anaconda3/envs/EdoardoPedrotti-api-test/lib/python3.7/http/__init__.py" timestamp="1586875073810">
+        <mark key="[" line="103" column="4" />
+        <mark key="]" line="103" column="23" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="5" column="17" filename="$USER_HOME$/PycharmProjects/py-backend/tests/conftest.py" />
+      <jump line="11" column="30" filename="$USER_HOME$/PycharmProjects/py-backend/tests/conftest.py" />
+      <jump line="14" column="35" filename="$USER_HOME$/PycharmProjects/py-backend/tests/conftest.py" />
+      <jump line="15" column="40" filename="$USER_HOME$/PycharmProjects/py-backend/tests/conftest.py" />
+      <jump line="51" column="20" filename="$USER_HOME$/PycharmProjects/py-backend/tests/conftest.py" />
+      <jump line="83" column="18" filename="$USER_HOME$/PycharmProjects/py-backend/.gitlab-ci.yml" />
+      <jump line="7" column="0" filename="$USER_HOME$/PycharmProjects/py-backend/tests/test_seed.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/PycharmProjects/py-backend/tests/mqtt/test_mqtt_client.py" />
+      <jump line="50" column="0" filename="$USER_HOME$/PycharmProjects/py-backend/src/app.py" />
+      <jump line="70" column="38" filename="$USER_HOME$/PycharmProjects/py-backend/src/protobuf/aibox_pb2.py" />
+      <jump line="91" column="13" filename="$USER_HOME$/PycharmProjects/py-backend/src/protobuf/aibox_pb2.py" />
+      <jump line="92" column="24" filename="$USER_HOME$/PycharmProjects/py-backend/src/protobuf/aibox_pb2.py" />
+      <jump line="98" column="49" filename="$USER_HOME$/PycharmProjects/py-backend/src/protobuf/aibox_pb2.py" />
+      <jump line="105" column="42" filename="$USER_HOME$/PycharmProjects/py-backend/src/protobuf/aibox_pb2.py" />
+      <jump line="112" column="44" filename="$USER_HOME$/PycharmProjects/py-backend/src/protobuf/aibox_pb2.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/PycharmProjects/py-backend/tests/test_backend.py" />
+      <jump line="30" column="119" filename="$USER_HOME$/PycharmProjects/py-backend/README.md" />
+      <jump line="161" column="0" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_client.py" />
+      <jump line="19" column="8" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_client.py" />
+      <jump line="160" column="69" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_client.py" />
+      <jump line="216" column="18" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_client.py" />
+      <jump line="241" column="8" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_client.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_client.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_client.py" />
+      <jump line="67" column="39" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_client.py" />
+      <jump line="69" column="39" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_client.py" />
+      <jump line="107" column="27" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_client.py" />
+      <jump line="115" column="59" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_client.py" />
+      <jump line="195" column="43" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_client.py" />
+      <jump line="197" column="0" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="82" column="50" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="239" column="10" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="255" column="20" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="224" column="56" filename="$USER_HOME$/PycharmProjects/ai-box/py-backend/src/mqtt/mqtt_client.py" />
+      <jump line="238" column="10" filename="$USER_HOME$/PycharmProjects/ai-box/py-backend/src/mqtt/mqtt_client.py" />
+      <jump line="122" column="20" filename="$USER_HOME$/PycharmProjects/ai-box/py-backend/src/mqtt/mqtt_client.py" />
+      <jump line="100" column="14" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="6" column="49" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="13" column="21" filename="$USER_HOME$/PycharmProjects/py-backend/src/app.py" />
+      <jump line="20" column="20" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="77" column="35" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="101" column="33" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="104" column="61" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="111" column="36" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="139" column="26" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="145" column="30" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="158" column="26" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="165" column="37" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="168" column="59" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="173" column="34" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="67" column="21" filename="$USER_HOME$/PycharmProjects/py-backend/tests/mqtt/test_mqtt_client.py" />
+      <jump line="234" column="15" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="149" column="13" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="164" column="14" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="167" column="0" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="175" column="16" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="177" column="16" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="128" column="14" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="134" column="14" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="242" column="36" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="66" column="15" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="73" column="56" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="79" column="58" filename="$USER_HOME$/PycharmProjects/py-backend/src/mqtt/mqtt_router.py" />
+      <jump line="13" column="36" filename="$USER_HOME$/PycharmProjects/ai-box/py-backend/src/mqtt/mqtt_client.py" />
+      <jump line="43" column="19" filename="$USER_HOME$/PycharmProjects/violent_python/src/chapter_2/scanner.py" />
+      <jump line="38" column="72" filename="$USER_HOME$/PycharmProjects/violent_python/src/chapter_2/scanner.py" />
+      <jump line="40" column="4" filename="$USER_HOME$/PycharmProjects/violent_python/src/chapter_2/scanner.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ai-box/py-backend/Dockerfile" />
+      <jump line="98" column="0" filename="$USER_HOME$/PycharmProjects/ai-box/py-backend/entrypoint.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/ai-box/py-backend/entrypoint.sh" />
+      <jump line="58" column="20" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/entrypoint.sh" />
+      <jump line="25" column="0" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/entrypoint.sh" />
+      <jump line="15" column="0" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/entrypoint.sh" />
+      <jump line="89" column="14" filename="$USER_HOME$/PycharmProjects/ai-box/py-backend/entrypoint.sh" />
+      <jump line="15" column="0" filename="$USER_HOME$/PycharmProjects/ai-box/py-backend/entrypoint.sh" />
+      <jump line="13" column="38" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/docker-compose.yml" />
+      <jump line="34" column="0" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/tests/conftest.py" />
+      <jump line="38" column="5" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/src/controllers/orders_controller.py" />
+      <jump line="50" column="34" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/src/controllers/orders_controller.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/src/controllers/orders_controller.py" />
+      <jump line="493" column="43" filename="$USER_HOME$/anaconda3/envs/EdoardoPedrotti-api-test/lib/python3.7/site-packages/gino/api.py" />
+      <jump line="226" column="26" filename="$USER_HOME$/anaconda3/envs/EdoardoPedrotti-api-test/lib/python3.7/site-packages/gino/api.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/src/controllers/orders_controller.py" />
+      <jump line="8" column="14" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/src/app.py" />
+      <jump line="15" column="39" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/src/controllers/orders_controller.py" />
+      <jump line="39" column="87" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/src/controllers/orders_controller.py" />
+      <jump line="71" column="67" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/src/controllers/orders_controller.py" />
+      <jump line="8" column="31" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/.env" />
+      <jump line="73" column="21" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/src/controllers/orders_controller.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/src/controllers/orders_controller.py" />
+      <jump line="119" column="0" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/src/controllers/orders_controller.py" />
+      <jump line="12" column="21" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/tests/controllers/test_orders.py" />
+      <jump line="42" column="12" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/tests/controllers/test_orders.py" />
+      <jump line="880" column="33" filename="$USER_HOME$/anaconda3/envs/EdoardoPedrotti-api-test/lib/python3.7/site-packages/pika/adapters/blocking_connection.py" />
+      <jump line="65" column="20" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/src/controllers/orders_controller.py" />
+      <jump line="77" column="27" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/tests/controllers/test_orders.py" />
+      <jump line="97" column="17" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/tests/controllers/test_orders.py" />
+      <jump line="7" column="78" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/pull_request.md" />
+      <jump line="6" column="44" filename="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test/pull_request.md" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgIGRlZiBtb2NrX3JlcygqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHJldHVybiBNb2NrUmVzcG9uc2UoMjAwLCBkZXZpY2VzX2RhdGEpCgogICAgbW9ua2V5cGF0Y2guc2V0YXR0cihyZXF1ZXN0cywgImdldCIsIG1vY2tfcmVzKQo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>of</text>
+      </register>
+      <register name="b" type="4">
+        <text>def test_should_create_</text>
+      </register>
+      <register name="c" type="4">
+        <text>def test_should_not_create_</text>
+      </register>
+      <register name="d" type="2">
+        <text encoding="base64">ICAgIExvY2F0aW9uKAogICAgICAgIG5hbWU9ImxvY2F0aW9uIDEiLAogICAgICAgIGFkZHJlc3M9ImxvY2F0aW9uIDEgc3RyZWV0IiwKICAgICAgICBjaXR5PSJsb2NhdGlvbiAxIGNpdHkiLAogICAgICAgIHppcD0iMTIzNDUiLAogICAgKQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>of</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx0b1w+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">IyBJbnN0cnVjdGlvbnMKCiMjIFRlc3RzClRvIHJ1biB0aGUgdGVzdCBmaXJzdCBjb3B5IGVudiBjb3JyZWN0IGVudiBmaWxlIHdpdGggCmBgYGJhc2gKICAgIGNwIC5lbnYubG9jYWwgLmVudgpgYGAKVGhlbiBpbnN0YWxsIHRoZSByZXF1aXJlZCBtb2R1bGVzOgpgYGBiYXNoCiAgICBwaXAgaW5zdGFsbCAtciByZXF1aXJlbWVudHMudHh0CmBgYAoKV2hlbiB0aGUgZW52aXJvbWVudCBpcyByZWFkeSB5b3UgY2FuIHJ1biB0aGUgc2VydmljZXMgd2l0aDogCmBgYGJhc2gKICAgIGRvY2tlci1jb21wb3NlIHVwIC1kCmBgYAoKRmluYWxseSBydW4gdGhlIHRlc3RzIHdpdGg6CmBgYGJhc2gKICAgIHB5dGVzdCB0ZXN0cwpgYGAKCiMjIEFwcGxpY2F0aW9uClRvIHJ1biB0aGUgYXBwbGljYXRpb24gc2ltcGx5IHJ1bjogCmBgYGJhc2gKICAgIGRvY2tlci1jb21wb3NlIHVwIC0tYnVpbGQKCmBgYApUaGUgb3JkZXJzIHNlcnZpY2Ugd2lsbCBiZSBsaXN0ZW5pbmcgdG8gcG9ydCA4MDgwLCB1bmxlc3MgYSBkaWZmZXJlbnQgcG9ydCBpcyBwcm92aWRlZCB3aXRoIGFuZCBlbnZpcm9tZW50IHZhcmlhYmxlIGluIHRoZSBkb2NrZXItY29tcG9zZSBmaWxlLgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text>, monkeypatch, devices_data</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">VgoKCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIGJvZHk6Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgcmV0dXJuIHJlc3BvbnNlLmpzb24oYm9keSwgc3RhdHVzPXJldF9zdGF0dXMpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHBheWxvYWQgPSBhd2FpdCByZXMuanNvbigpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiYWRzZiIpCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDx0b1w+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx0b1w+</last-pattern>
+      <last-replace>\},</last-replace>
+      <last-substitute>\{</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="true" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>

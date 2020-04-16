@@ -1,0 +1,33 @@
+<keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift ctrl w" second-keystroke="a" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift ctrl w" second-keystroke="o" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt g" second-keystroke="n" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl alt g" second-keystroke="p" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
+  <action id="ShowProjectStructureSettings" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift alt q" />
+  </action>
+  <action id="Tool_External Tools_Black">
+    <keyboard-shortcut first-keystroke="shift ctrl alt b" />
+  </action>
+  <action id="com.jetbrains.python.console.RunPythonConsoleAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt m" />
+  </action>
+</keymap>

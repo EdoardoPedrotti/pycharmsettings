@@ -1,0 +1,664 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="/usr/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.local/lib/python3.5/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python3.5/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python3/dist-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-1247971764" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (python36)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="$USER_HOME$/anaconda3/envs/python36/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/python36/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/python36/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/python36/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-1837584650" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (upload-image-function)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="$USER_HOME$/anaconda3/envs/upload-image-function/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/upload-image-function/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/upload-image-function/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/upload-image-function/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-919561157" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/upload-image-function" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (edge-devices)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="$USER_HOME$/anaconda3/envs/edge-devices/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/edge-devices/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/edge-devices/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/edge-devices/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-336725848" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/edge-devices" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (edge-device-gateway)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="$USER_HOME$/anaconda3/envs/edge-device-gateway/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/edge-device-gateway/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/edge-device-gateway/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/edge-device-gateway/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/1038490324" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/edge-device-gateway" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (projects)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="$USER_HOME$/anaconda3/envs/projects/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/projects/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/projects/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/projects/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/-1882381349" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/projects" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (metrics)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="$USER_HOME$/anaconda3/envs/metrics/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/metrics/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/metrics/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/metrics/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.2/system/python_stubs/1300511534" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/metrics" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (metric-collector-function)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="$USER_HOME$/anaconda3/envs/metric-collector-function/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/metric-collector-function/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/metric-collector-function/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/metric-collector-function/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-1177922340" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/metric-collector-function" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (images)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="$USER_HOME$/anaconda3/envs/images/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/images/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/images/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/images/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/1890867101" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/images" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (tfx-tutorial)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/PycharmProjects/tfx-tutorial/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/tfx-tutorial/venv/lib/python3.5/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/tfx-tutorial/venv/lib/python3.5/site-packages/setuptools-40.8.0-py3.5.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/tfx-tutorial/venv/lib/python3.5/site-packages/pip-19.0.3-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/269796317" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/tfx-tutorial" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (tfx-tutorial)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="$USER_HOME$/anaconda3/envs/tfx-tutorial/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/tfx-tutorial/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/tfx-tutorial/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/tfx-tutorial/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-1483949712" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/tfx-tutorial" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (tfx)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="$USER_HOME$/anaconda3/envs/tfx/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/tfx/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/tfx/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/tfx/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/909568715" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/tfx" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (models)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="$USER_HOME$/anaconda3/envs/models/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/models/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/models/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/models/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/1173054571" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/models" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (scraping)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="$USER_HOME$/anaconda3/envs/scraping/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/scraping/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/scraping/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/scraping/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-1403569788" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/scraping" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (celery-tutorial)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/PycharmProjects/celery-tutorial/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/celery-tutorial/venv/lib/python3.5/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/celery-tutorial/venv/lib/python3.5/site-packages/setuptools-40.8.0-py3.5.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/celery-tutorial/venv/lib/python3.5/site-packages/pip-19.0.3-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/91981707" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/celery-tutorial" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (celery-tutorial)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="$USER_HOME$/anaconda3/envs/celery-tutorial/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/celery-tutorial/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/celery-tutorial/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/celery-tutorial/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/2098948680" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/celery-tutorial" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (westpharma-model-deployment)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/PycharmProjects/westpharma-model-deployment/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/westpharma-model-deployment/venv/lib/python3.5/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/westpharma-model-deployment/venv/lib/python3.5/site-packages/setuptools-40.8.0-py3.5.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/westpharma-model-deployment/venv/lib/python3.5/site-packages/pip-19.0.3-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/1874385868" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/westpharma-model-deployment" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (model-executor)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="$USER_HOME$/anaconda3/envs/model-executor/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/model-executor/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/model-executor/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/model-executor/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/1059816382" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/model-executor" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (py-backend)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/anaconda3/envs/py-backend/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/py-backend/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/py-backend/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/py-backend/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/1077224261" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/py-backend" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (py-backend-2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/anaconda3/envs/py-backend-2/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/py-backend-2/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/py-backend-2/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/py-backend-2/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/20094976" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/py-backend" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (ai-box)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.6" />
+      <homePath value="$USER_HOME$/anaconda3/envs/ai-box/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/ai-box/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/ai-box/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/ai-box/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/852354735" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/ai-box" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.7.5 Docker Compose (py-backend at [/home/edoardo/PycharmProjects/ai-box/docker-compose.base.yml, /home/edoardo/PycharmProjects/ai-box/docker-compose.dev.x86_64.yml])" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.5" />
+      <homePath value="docker-compose://[/home/edoardo/PycharmProjects/ai-box/docker-compose.base.yml, /home/edoardo/PycharmProjects/ai-box/docker-compose.dev.x86_64.yml]:py-backend/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/-909418935/-39500923" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/-909418935/249573928" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/remote_sources/-909418935/1170049292" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/-909418935" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="Python 3.7.5" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="py-backend" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/-909418935/-39500923" remote-root="/backend" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/-909418935/249573928" remote-root="/usr/local/lib/python3.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2019.3/system/remote_sources/-909418935/1170049292" remote-root="/usr/local/lib/python3.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/PycharmProjects/ai-box/docker-compose.base.yml" />
+          <item value="$USER_HOME$/PycharmProjects/ai-box/docker-compose.dev.x86_64.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs>
+          <env name="FTP_DIR" value="/tmp" />
+          <env name="EXPORT_DIR" value="/tmp" />
+        </envs>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (violen_python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/PycharmProjects/violen_python/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/violent_python/venv/lib/python3.5/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/violen_python/venv/lib/python3.5/site-packages/setuptools-40.8.0-py3.5.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/violent_python/venv/lib/python3.5/site-packages/pip-19.0.3-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/1687649860" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/violen_python" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (violen_python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.7" />
+      <homePath value="$USER_HOME$/anaconda3/envs/violen_python/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/violen_python/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/violen_python/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/violen_python/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.3/system/python_stubs/953846959" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/violen_python" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (EdoardoPedrotti-api-test)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.7" />
+      <homePath value="$USER_HOME$/anaconda3/envs/EdoardoPedrotti-api-test/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/envs/EdoardoPedrotti-api-test/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/EdoardoPedrotti-api-test/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/envs/EdoardoPedrotti-api-test/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.1/python_stubs/-1020032436" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/EdoardoPedrotti-api-test" />
+    </jdk>
+  </component>
+</application>
